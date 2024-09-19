@@ -13,3 +13,9 @@ L'application permettra d'afficher les statistiques suivantes :
 * moyenne
 * valeur minimum
 * valeur maximum
+
+
+## Exécuter l'application
+
+```shell
+python3 main.py
