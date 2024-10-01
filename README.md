@@ -5,10 +5,10 @@ Supposons que vous devez développer une application en Python qui permet d'affi
 ## Données
 Les données seront codées en dur dans l'application sous la forme d'une liste de réels.
 
-## Fonctionnalité 1 : Calculer la Somme
+## Fonctionnalité #1 : Calculer la Somme
 L'application permettra d'afficher la somme et le nombre d'éléments de la liste.
 
-## Fonctionnalité 2 : Calculer les paramètres de position
+## Fonctionnalité #2 : Calculer les paramètres de position
 L'application permettra d'afficher les statistiques suivantes :
 * moyenne
 * valeur minimum
@@ -19,7 +19,7 @@ L'application permettra d'afficher les statistiques suivantes :
 
 ```shell
 python3 main.py
-
+```
 
 ## Capture d'écran de l'application
 ![](Application_Statistique.png)
